@@ -12,7 +12,7 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
->📋  This code is implemented in Ubuntu 18.04.4 LTS with Python 3.7.7 environment. The installation details  of docplex in in [Here](https://blog.csdn.net/qq_37787732/article/details/107969026?spm=1001.2014.3001.5501).
+>📋  This code is implemented in Ubuntu 18.04.4 LTS with Python 3.7.7 environment. The installation details  of docplex is in [Here](https://blog.csdn.net/qq_37787732/article/details/107969026?spm=1001.2014.3001.5501) This is a Chinese documentation:)
 
 ## Results
 
