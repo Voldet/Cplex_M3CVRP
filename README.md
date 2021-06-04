@@ -16,9 +16,7 @@ pip install -r requirements.txt
 
 ## Results
 
-Our model achieves the following performance on self-generated datasets:
-
-### [Dataset](/dataset)
+Our model achieves the following performance on [self-generated datasets](/dataset):
 
 >![image-20210604151519040](result.png)
 
