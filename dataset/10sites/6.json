@@ -1,0 +1,10 @@
+[{"capacity": 960, "id": "5ab9a5b2c1cb6113550317c5", "lat": 35965922, "lng": 119958226, "stopLength": 70, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 2160, "id": "5abb3b64c1cb613f676fd52f", "lat": 36041510, "lng": 120211528, "stopLength": 120, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 960, "id": "5ab9fbd55e27e54c98ae6119", "lat": 36041185, "lng": 120169117, "stopLength": 70, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 480, "id": "5ab1d211c1cb61657456e243", "lat": 35693473, "lng": 119559612, "stopLength": 60, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 1440, "id": "5ab956bdc1cb61135503138c", "lat": 36095867, "lng": 120072872, "stopLength": 90, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 720, "id": "5ab95a135e27e54c98ae5894", "lat": 36086558, "lng": 120123698, "stopLength": 60, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 3120, "id": "5ab31c735e27e565e8463d98", "lat": 35963108, "lng": 119743142, "stopLength": 160, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 720, "id": "5ab256c35e27e5186df1a265", "lat": 35955533, "lng": 120169828, "stopLength": 60, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 960, "id": "5ab1b818c1cb61657456c7c0", "lat": 35736411, "lng": 119868802, "stopLength": 70, "workTimes": [["07:00", "17:00"]]},
+{"capacity": 1200, "id": "5ab965875e27e54c98ae5931", "lat": 36086477, "lng": 120050852, "stopLength": 80, "workTimes": [["07:00", "17:00"]]}]

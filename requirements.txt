@@ -1,0 +1,5 @@
+# requirements for docplex environment
+
+docplex==2.14.186
+numpy==1.19.2
+
