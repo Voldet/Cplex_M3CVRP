@@ -1,6 +1,6 @@
 # Region-focused Memetic Algorithms with Smart Initialisation for Real-world Large-scale Waste Collection Problems
 
-This repository is the official **Cplex** implementation of [Region-focused Memetic Algorithms with Smart Initialisation for Real-world Large-scale Waste Collection Problems](https://www.researchgate.net/publication/343126112_A_Novel_Two-phase_Approach_to_Large-scale_Waste_Collection_Problems). 
+This repository is the official **Cplex** implementation of [Region-focused Memetic Algorithms with Smart Initialisation for Real-world Large-scale Waste Collection Problems](https://ieeexplore.ieee.org/abstract/document/9594087). 
 
 >📋  Bibtex entry [m3cvrp.bib](m3cvrp.bib)
 
